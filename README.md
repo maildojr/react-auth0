@@ -41,10 +41,8 @@ Follow these steps to get the project up and running on your local machine.
 
 Change the values in the .env file with your Auth0 credentials.
 
-    ```bash
     REACT_APP_AUTH0_DOMAIN=
     REACT_APP_AUTH0_CLIENT_ID=
-    ```
 
 ### Usage
 
