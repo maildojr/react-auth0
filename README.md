@@ -64,5 +64,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Typescript Documentation](https://www.typescriptlang.org/docs/)
 - [Styled Components Documentation](https://styled-components.com/docs)
 - [Auth0 Documentation](https://auth0.com/docs/)
-
-Feel free to customize the README.md to include additional details about your project or any specific instructions for users.
