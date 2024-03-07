@@ -22,13 +22,13 @@ Follow these steps to get the project up and running on your local machine.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/maildojr/react-auth0.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd [project_directory]
+    cd react-auth0
     ```
 
 3. Install dependencies:
